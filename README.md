@@ -10,7 +10,7 @@ The project can be built by downloading the package from Github or by cloning th
 
 Building the solution will require docker and [Entity Framework Core tools](https://docs.microsoft.com/en-us/ef/core/cli/dotnet)
 
-From the root of the solution the iumage can be created issuing the following command:
+From the root of the solution the image can be created issuing the following command:
 
 ```docker-compose build``` 
 

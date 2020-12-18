@@ -1,6 +1,10 @@
 ## Description
 
-A simple market place webapi net core app built on net core 3.1 using Docker containers
+A simple market place web api net core app built on net core 3.1 using Docker containers. 
+
+Containers used: 
+- mcr.microsoft.com/dotnet/sdk:3.1
+- mcr.microsoft.com/mssql/server
 
 ## Build
 

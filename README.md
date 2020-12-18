@@ -2,7 +2,7 @@
 
 A simple market place webapi net core app built on net core 3.1 using Docker containers
 
-# Build
+## Build
 
 The project can be built by downloading the package from Github or by cloning the solution using:
 
@@ -14,7 +14,7 @@ From the root of the solution the image can be created issuing the following com
 
 ```docker-compose build``` 
 
-# Running
+## Running
 
 
 Once the build has been generated the image, run the container 
@@ -25,7 +25,7 @@ The web app endpoint is hosted [http://localhost:5000](http://localhost:5000)
 
 Swagger end point: [http://localhost:5000/swagger/index.html](http://localhost:5000/swagger/index.html)
 
-# Results 
+## Results 
 
 Postman Results
 ![img](https://github.com/maldago/IGS.Marketplace/blob/master/Results/PostmanResults.PNG)

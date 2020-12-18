@@ -29,6 +29,15 @@ The web app endpoint is hosted [http://localhost:5000](http://localhost:5000)
 
 Swagger end point: [http://localhost:5000/swagger/index.html](http://localhost:5000/swagger/index.html)
 
+When the app is up, the Sql server instance can be accessed using your SQL Server Management tool of choice. I used [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15).
+
+Server: 127.0.0.1
+Username: sa
+Password: <Check solution>
+
+![img](https://github.com/maldago/IGS.Marketplace/blob/master/Results/Marketplace-DB.PNG) 
+
+
 ## Results 
 
 Postman Results

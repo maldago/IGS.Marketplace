@@ -27,5 +27,8 @@ Swagger end point: [http://localhost:5000/swagger/index.html](http://localhost:5
 
 # Results 
 
+Postman Results
+![img](https://github.com/maldago/IGS.Marketplace/blob/master/Results/PostmanResults.PNG)
 
-![img](https://github.com/maldago/IGS.Marketplace/)
+Swagger up and running
+![img](https://github.com/maldago/IGS.Marketplace/blob/master/Results/Swagger.PNG)
